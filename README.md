@@ -19,7 +19,7 @@ The loop evaluator:
 - If the current cell is 0, this loop is done, return to the operation list above it
 - Otherwise, just run the normal interpreter on the loop contents again
 
-> ![NOTE]
+> [!NOTE]
 > The Parser is pretty simple as well, it just creates a recursive stack for building the loop operators
 
 ### Tape
