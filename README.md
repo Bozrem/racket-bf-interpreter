@@ -37,3 +37,8 @@ With this, all we need to do when moving is to add current as the top value to t
 It also makes it much easier to provide the "infinite tape" illusion.
 
 If we do a > operator (move right), and the right side of the tape is empty, we can just set curr to 0 and keep the right side empty. From the programs perspective, it moved, but we had to do nothing but add to the left side
+
+### Credit
+> [!NOTE]
+> None of the bf_files belong to me. I have no desire to make anything in that hellish language.
+> The hello world ones are from Wikipedia, and the others are from the bf website, and have credit comments
